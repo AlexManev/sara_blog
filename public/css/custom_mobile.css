@@ -1,0 +1,11 @@
+@media (max-width: 978px) {
+    .about-picture-frame{
+        background-color: #f4f4f4;
+    }
+    .about-picture-frame img{
+        margin-left: 0px;
+        margin-top: 0px;
+        width: 200px;
+        height: 200px;
+    }
+}
